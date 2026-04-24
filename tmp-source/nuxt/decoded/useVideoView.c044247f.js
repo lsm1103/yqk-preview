@@ -1,0 +1,1 @@
+import{r as i}from"./entry.9cd3de3f.js";import{j as r}from"./swiper-vue.1c91be54.js";const{height:e,width:t}=i(),a=()=>({viewHeight:r(()=>t.value>1200?e.value-675+"px":e.value-t.value*9/16+"px")});export{a as u};

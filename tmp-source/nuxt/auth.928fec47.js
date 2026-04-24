@@ -1,0 +1,1 @@
+import{bg as a,g as s,J as e,n as u}from"./entry.9cd3de3f.js";import"./swiper-vue.1c91be54.js";const f=a((r,n)=>{const t=s(),o=e("token");if(!e("userId").value&&!o.value)return setTimeout(()=>{t.updateLoginModelStatus(!0)},300),u({path:"/"})});export{f as default};

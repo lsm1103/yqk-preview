@@ -1,0 +1,1 @@
+import{_ as n}from"./nuxt-loading-indicator.fedaf48b.js";import{bh as _}from"./entry.9cd3de3f.js";import{z as a,N as r,O as c,E as o,J as m}from"./swiper-vue.1c91be54.js";const s={name:"mobile"},g=a({...s,setup(p){return(l,u)=>{const t=n,e=_;return r(),c(m,null,[o(t,{throttle:0,color:"var(--page-loading-bg)"}),o(e)],64)}}});export{g as default};

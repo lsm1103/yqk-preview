@@ -1,0 +1,1 @@
+import{_ as e}from"./nuxt-loading-indicator.fedaf48b.js";import{_ as a}from"./entry.9cd3de3f.js";import{N as n,O as r,E as s,a0 as c,J as _}from"./swiper-vue.1c91be54.js";const l={name:"Default"};function p(o,m,d,f,u,i){const t=e;return n(),r(_,null,[s(t,{throttle:0,color:"var(--page-loading-bg)"}),c(o.$slots,"default")],64)}const N=a(l,[["render",p]]);export{N as default};

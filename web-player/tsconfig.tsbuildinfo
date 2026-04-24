@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/types.ts","./src/components/contentsection.tsx","./src/components/videocard.tsx","./src/components/videoplayer.tsx","./src/lib/api.ts","./src/lib/client.ts","./src/lib/format.ts","./src/pages/homepage.tsx","./src/pages/searchpage.tsx","./src/pages/watchpage.tsx"],"version":"5.9.3"}

@@ -1,0 +1,1 @@
+import{bg as o,y as t,n as i}from"./entry.9cd3de3f.js";import"./swiper-vue.1c91be54.js";const a=o(r=>{const e=t();if(console.log(e,"persistStore.getMobileLoginInfo"),!e.getMobileLoginInfo)return i({path:"/mobileLogin"})});export{a as default};

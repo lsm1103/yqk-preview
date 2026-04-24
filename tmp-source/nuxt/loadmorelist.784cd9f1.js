@@ -1,0 +1,1 @@
+import{_ as e}from"./nuxt-loading-indicator.fedaf48b.js";import{_ as a}from"./entry.9cd3de3f.js";import{N as r,O as n,E as s,a0 as c,J as _}from"./swiper-vue.1c91be54.js";const l={name:"LoadMoreList"};function m(o,p,d,i,f,u){const t=e;return r(),n(_,null,[s(t,{throttle:0,color:"var(--page-loading-bg)"}),c(o.$slots,"default")],64)}const L=a(l,[["render",m]]);export{L as default};

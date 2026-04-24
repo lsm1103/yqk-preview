@@ -1,0 +1,1 @@
+import{bg as e,n as r}from"./entry.9cd3de3f.js";import{i as t}from"./isNaN.474737c6.js";import"./swiper-vue.1c91be54.js";const l=e(a=>{if(t(Number(a.params.channelId)))return r({path:"/",replace:!0})});export{l as default};

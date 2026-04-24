@@ -1,0 +1,13 @@
+{
+  "name": "devtools-capture-template",
+  "version": "1.0.0",
+  "private": true,
+  "description": "通用 Chrome DevTools 抓包模板（移动端模式 + 接口与响应导出）",
+  "type": "module",
+  "scripts": {
+    "capture": "node capture.mjs"
+  },
+  "dependencies": {
+    "playwright": "^1.54.0"
+  }
+}
