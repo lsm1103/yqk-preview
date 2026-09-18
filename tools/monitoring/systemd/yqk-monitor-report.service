@@ -1,0 +1,9 @@
+[Unit]
+Description=Generate vnStat/vnstati and GoAccess web reports
+After=network-online.target nginx.service
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+ExecStart=/usr/local/bin/yqk-monitor-report.sh eth0
+

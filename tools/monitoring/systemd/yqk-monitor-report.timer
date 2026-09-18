@@ -1,0 +1,13 @@
+[Unit]
+Description=Run yqk-monitor-report periodically
+
+[Timer]
+OnBootSec=2min
+OnUnitActiveSec=2min
+AccuracySec=30s
+Unit=yqk-monitor-report.service
+Persistent=true
+
+[Install]
+WantedBy=timers.target
+
